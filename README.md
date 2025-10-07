@@ -37,3 +37,13 @@ source venv/bin/activate  # For macOS/Linux
 
 # Install dependencies
 pip install -r requirements.txt
+
+📌 Notes
+
+Ensure Python version 3.8+ is installed.
+
+The app requires NLTK stopwords; first run may download them automatically.
+
+For production deployment (Heroku, Docker), set debug=False in app.py.
+
+Use Ctrl+C to stop the server when done.
