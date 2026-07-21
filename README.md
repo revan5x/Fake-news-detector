@@ -1,7 +1,5 @@
 # 📰 Fake News Detector
 
-## 🎯 Hero
-
 > AI-powered web application that detects fake news using Natural Language Processing (NLP) and machine learning, helping users evaluate the credibility of online news before consuming or sharing it.
 
 ---
